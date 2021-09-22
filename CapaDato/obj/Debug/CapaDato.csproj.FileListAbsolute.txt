@@ -1,0 +1,12 @@
+E:\UAC-DESARROLLO DE PROGRAMAS\2021-2\Plataformas Digitales\northwind\CapaDato\bin\Debug\CapaDato.dll
+E:\UAC-DESARROLLO DE PROGRAMAS\2021-2\Plataformas Digitales\northwind\CapaDato\bin\Debug\CapaDato.pdb
+E:\UAC-DESARROLLO DE PROGRAMAS\2021-2\Plataformas Digitales\northwind\CapaDato\obj\Debug\CapaDato.csprojAssemblyReference.cache
+E:\UAC-DESARROLLO DE PROGRAMAS\2021-2\Plataformas Digitales\northwind\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+E:\UAC-DESARROLLO DE PROGRAMAS\2021-2\Plataformas Digitales\northwind\CapaDato\obj\Debug\CapaDato.dll
+E:\UAC-DESARROLLO DE PROGRAMAS\2021-2\Plataformas Digitales\northwind\CapaDato\obj\Debug\CapaDato.pdb
+D:\UAC\2021-2\Plataformas Digitales\northwind\CapaDato\bin\Debug\CapaDato.dll
+D:\UAC\2021-2\Plataformas Digitales\northwind\CapaDato\bin\Debug\CapaDato.pdb
+D:\UAC\2021-2\Plataformas Digitales\northwind\CapaDato\obj\Debug\CapaDato.csproj.AssemblyReference.cache
+D:\UAC\2021-2\Plataformas Digitales\northwind\CapaDato\obj\Debug\CapaDato.csproj.CoreCompileInputs.cache
+D:\UAC\2021-2\Plataformas Digitales\northwind\CapaDato\obj\Debug\CapaDato.dll
+D:\UAC\2021-2\Plataformas Digitales\northwind\CapaDato\obj\Debug\CapaDato.pdb
